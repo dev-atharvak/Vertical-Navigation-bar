@@ -48,6 +48,9 @@ Through this project, I learned:
 - Responsive design techniques
 - UI design fundamentals
 
+## Live Demo
+https://dev-atharvak.github.io/Vertical-Navigation-bar/
+
 ## Disclaimer
 
 This project was created for educational and learning purposes to improve frontend web development skills.
