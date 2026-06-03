@@ -1,0 +1,36 @@
+ul{
+    list-style-type: none;
+    background-color: rgb(167, 246, 246);
+    width: 20%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+
+    
+}
+body{
+    margin: 0;    
+}
+
+a{
+    text-decoration: none;
+    
+}
+li{
+    padding: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:hover{
+    background-color: rgb(167, 246, 246);
+    color: rgb(42, 235, 13);
+    font-size: 150%;
+}
+a:active{
+    color: rgb(228, 13, 235);
+    font-size: 150%;
+}
+a:visited{
+    color: rgb(249, 5, 5);
+}
+
